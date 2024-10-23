@@ -10,7 +10,5 @@
 
 -📫 You can reach out to me via LinkedIn (https://uy.linkedin.com/in/roberto-avcharian-635858191), avcharianroberto@gmail.com, or feel free to send me a DM here.
 
-<!---
-BetoAvcharian/BetoAvcharian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Redes sociales:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([tu_linkedin](https://uy.linkedin.com/in/roberto-avcharian-635858191) 
