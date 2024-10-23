@@ -11,4 +11,4 @@
 -📫 You can reach out to me via LinkedIn (https://uy.linkedin.com/in/roberto-avcharian-635858191), avcharianroberto@gmail.com, or feel free to send me a DM here.
 
 ### 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([tu_linkedin](https://uy.linkedin.com/in/roberto-avcharian-635858191) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([tu_linkedin](https://uy.linkedin.com/in/roberto-avcharian-635858191)) 
